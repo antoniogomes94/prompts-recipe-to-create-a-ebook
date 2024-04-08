@@ -70,7 +70,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
     <p>&nbsp&nbsp&nbspAntonio Gomes<br>
     &nbsp&nbsp&nbsp
     <a href="https://github.com/antoniogomes94">GitHub</a>&nbsp;|&nbsp;
-    <a href="www.linkedin.com/in/antoniogomes313">LinkedIn</a>&nbsp;|&nbsp;
+    <a href="https://www.linkedin.com/in/antoniogomes313">LinkedIn</a>&nbsp;|&nbsp;
     <a href="https://www.instagram.com/antoniogomes_dev/">Instagram</a>&nbsp;|&nbsp;</p>
 </p>
 <br/><br/>
